@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Alura-c-sharp/1.0.0": {
+        "runtime": {
+          "Alura-c-sharp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Alura-c-sharp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

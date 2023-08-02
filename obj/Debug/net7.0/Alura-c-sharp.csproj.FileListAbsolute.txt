@@ -1,0 +1,15 @@
+/home/ellen/Documentos/Alura-c-sharp/bin/Debug/net7.0/Alura-c-sharp
+/home/ellen/Documentos/Alura-c-sharp/bin/Debug/net7.0/Alura-c-sharp.deps.json
+/home/ellen/Documentos/Alura-c-sharp/bin/Debug/net7.0/Alura-c-sharp.runtimeconfig.json
+/home/ellen/Documentos/Alura-c-sharp/bin/Debug/net7.0/Alura-c-sharp.dll
+/home/ellen/Documentos/Alura-c-sharp/bin/Debug/net7.0/Alura-c-sharp.pdb
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.csproj.AssemblyReference.cache
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.GeneratedMSBuildEditorConfig.editorconfig
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.AssemblyInfoInputs.cache
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.AssemblyInfo.cs
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.csproj.CoreCompileInputs.cache
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.dll
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/refint/Alura-c-sharp.dll
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.pdb
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/Alura-c-sharp.genruntimeconfig.cache
+/home/ellen/Documentos/Alura-c-sharp/obj/Debug/net7.0/ref/Alura-c-sharp.dll
